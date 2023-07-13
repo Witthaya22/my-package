@@ -1,0 +1,16 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Witthaya22/my-package.git"
+  },
+  "keywords": ["test"],
+  "author": "witthaya22",
+  "license": "MIT"
+}
